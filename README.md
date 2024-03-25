@@ -1,5 +1,15 @@
 # 💫 About Me:
-🔭 I’m currently working on mastering the intricacies of the MERN stack and enhancing my problem-solving skills through Data Structures and Algorithms.<br><br>👯 I’m looking to collaborate on innovative projects focused on web development, especially those leveraging the MERN stack. I'm passionate about creating efficient, scalable web applications and always excited to join forces with like-minded developers.<br><br>🤝 I’m looking for help with advanced concepts in Data Structures and Algorithms. If you have expertise or resources you're willing to share, I'd be grateful to learn from you.<br><br>🌱 I’m currently learning DSA and MERN Stack to solidify my foundations and stay ahead in the fast-paced tech landscape. These skills are my stepping stones towards becoming a full-stack web developer.<br><br>💬 Ask me about DSA, 100DaysofCODE, MERN Stack, or any tech-related queries you might have! I'm here to share my learning journey and help others by discussing coding challenges, project ideas, or programming resources.<br><br>⚡ Fun fact: Despite my tech focus, I have a quirky hobby of Singing . It's a great conversation starter and a way to unwind after a coding session!
+🔭 **Working on:** Mastering DSA & MERN stack with projects showcased on [my portfolio](https://gurupatel.netlify.app).<br><br>
+
+👯 **Looking to collaborate on:** Web development projects using the MERN stack.<br><br>
+
+🤝 **Looking for help with:** Advanced web technologies and finding mentorship.<br><br>
+
+🌱 **Learning:** Expanding my knowledge in various programming languages and tech trends.<br><br>
+
+💬 **Ask me about:** Coding, project experiences, and teamwork in software development.<br><br>
+
+⚡ **Fun fact:** The joy of solving complex problems and building from scratch drives me.
 
 
 ## 🌐 Socials:
