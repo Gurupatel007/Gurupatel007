@@ -3,13 +3,13 @@
 
 ## 🌐 Socials
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div align="left">
   <a href="mailto:certifiedguru@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/guru-patel-42423b219" target="_blank">
 <!--     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> -->
-    <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
     <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="guru-patel" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/guru-patel?trk=profile-badge">Guru Patel</a></div>
               
   </a>
